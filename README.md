@@ -2,6 +2,8 @@
 <p>Feito por Cauã Silva👦 e Juliana Dantas👩</p>
 <p>2°Jogos Digitais🕹️</p>
 
+## Link do jogo no drive
+
 ## Explicação 1°Fase
 <p>O jogador deve controlar o personagem (Michael) e derrotar os zumbis que vao surgindo sem deixá-los atravessar o limite. A cena muda após 1 minuto.</p>
 
@@ -34,3 +36,5 @@
 <img src='img/boss.jpg' />
 <p>O boss possui os mesmos códigos de movimento dos zumbis, o que muda é a sua velocidade e que ele possui mais vida. Se o boss perder todas as suas vidas, a cena é mudada para a área de vitória.</p>
 <img src='img/scriptboss.jpg' />
+
+## Vídeos mostrando o jogo
